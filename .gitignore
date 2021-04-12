@@ -1,0 +1,8 @@
+# Ignored files
+*.png
+/servingwebcontent.iml
+
+# Ingnored catalogs
+.idea/
+target/
+lib/
